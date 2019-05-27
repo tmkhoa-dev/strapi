@@ -64,7 +64,7 @@
     "semver": "^5.4.1",
     "shelljs": "^0.8.3",
     "stack-trace": "0.0.10",
-    "strapi-utils": "git+ssh://git@gitlab.id.vin:phucht/strapi-utils.git"
+    "strapi-utils": "git+https://github.com/tmkhoa92/strapi-utils.git"
   },
   "scripts": {
     "test": "jest --forceExit --verbose",
