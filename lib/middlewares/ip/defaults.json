@@ -1,0 +1,7 @@
+{
+  "ip": {
+    "enabled": true,
+    "whiteList": [],
+    "blackList": []
+  }
+}
